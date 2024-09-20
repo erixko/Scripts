@@ -1,2 +1,2 @@
 # Scripts
-Mini Script For Dynamic Use
+Mini Scripts For Dynamic Use
